@@ -1,7 +1,7 @@
 # iOS Application SelfPass
 
 <p align="center">
-  <img height="160" src="Logo/logo.png" />
+![Logo][<img height="160" src="Logo/logo.png" />]
 </p>
 
 <p align="center">
